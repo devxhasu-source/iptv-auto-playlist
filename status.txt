@@ -7,7 +7,7 @@
 ⚙️ Engine                : IPTV Premium Auto Engine v7.4
 📊 Run Status            : 🟢 SUCCESS
 🆔 Run ID                : 20261006-225152
-⏱️ Runtime               : 39.76s
+⏱️ Runtime               : 45.3s
 🕐 Finished              : 06 Oct 2026, 10:52 PM BDT
 ⏭️ Next Update           : 06 Oct 2026, 11:27 PM BDT
 
@@ -84,7 +84,7 @@
 📦 Repository           : iptv-auto-playlist
 🌿 Branch              : main
 📄 Playlist             : playlist.m3u
-🟢 Published            : NO
+🟢 Published            : YES
 
 ╔══════════════════════════════════════════════════════════╗
 ║        ✅ SCRAPE & PUBLISH COMPLETED                    ║
