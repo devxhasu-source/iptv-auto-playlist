@@ -1,0 +1,93 @@
+╔══════════════════════════════════════════════════════════╗
+║        📺 IPTV PREMIUM AUTO SCRAPER STATUS              ║
+║                 ⚙️ ENGINE v7.4                           ║
+╚══════════════════════════════════════════════════════════╝
+
+👨‍💻 Developer             : Hasan Ahmed
+⚙️ Engine                : IPTV Premium Auto Engine v7.4
+📊 Run Status            : 🟢 SUCCESS
+🆔 Run ID                : 20261006-155515
+⏱️ Runtime               : 14.0s
+🕐 Finished              : 06 Oct 2026, 03:55 PM BDT
+⏭️ Next Update           : 06 Oct 2026, 04:27 PM BDT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯 EXACT CHANNEL WHITELIST
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📋 Configured names      : 298
+🎯 Candidates matched     : 0
+🔒 Policy                 : EXACT name only
+   • Case differences    : allowed
+   • Repeated spaces    : normalized
+   • HD/FHD/4K suffixes : NOT merged
+   • Unlisted names     : rejected
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌍 INTERNATIONAL SOURCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📚 Sources configured    : 21
+🟢 Working              : 20
+🔴 Failed               : 1
+📥 Records collected    : 60,131
+♻️ Unique candidates    : 12,521
+🎯 Record limit         : 100,000
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🗄️ MONGODB DATABASE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📥 Records read         : 0
+🎯 Usable candidates    : 0
+📦 Record limit         : 1,000,000
+🔗 Status               : ⚪ Not configured
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔄 MERGE & FILTER PIPELINE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📦 Combined candidates  : 0
+🎯 Exact-name matches   : 0
+♻️ Duplicates removed   : 95,245
+📌 Manual links added   : 0
+📂 Existing found       : 112
+📂 Existing kept        : 0
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧪 HEALTH CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔍 Checked              : 119
+🟢 Live                 : 112
+🔴 Dead                 : 7
+📌 Check limit          : 12,000
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📺 FINAL PLAYLIST
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🟢 Live streams         : 108
+📺 Channels             : 108
+🗂️ Categories           : 31
+🌍 Countries            : 4
+🗣️ Languages            : 0
+📡 Max streams/channel  : 1
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🛡️ QUALITY & SAFETY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎚️ Quality gate          : 🟢 PASSED
+📺 Minimum streams      : 1
+📡 Minimum channels     : 1
+🛡️ Previous preserved   : True
+🔞 NSFW sources         : OFF
+📝 Block reason         : None
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚀 PUBLIC GITHUB PUBLISH
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📦 Repository           : iptv-auto-playlist
+🌿 Branch              : main
+📄 Playlist             : playlist.m3u
+🟢 Published            : NO
+
+╔══════════════════════════════════════════════════════════╗
+║        ✅ SCRAPE & PUBLISH COMPLETED                    ║
+║        🤖 IPTV Premium Auto Engine                      ║
+║        👨‍💻 Hasan Ahmed                                 ║
+╚══════════════════════════════════════════════════════════╝
